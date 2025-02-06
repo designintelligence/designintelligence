@@ -72,7 +72,7 @@ Welcome to **Design Intelligence**, where **Python, AI, and 3D visualization** m
 📧 **Email**: [designintelligence.in@gmail.com](mailto:designintelligence.in@gmail.com)  
 🌍 **Website**: [www.designintelligence.in](https://www.designintelligence.tech)  
 📌 **GitHub**: [@designintelligence](https://github.com/designintelligence)  
-📱 **LinkedIn**: [linkedin.com/company/designintelligence](https://linkedin.com/company/design-intelligence-llp)  
+📱 **LinkedIn**: [DESIGN INTELLIGENCE LLP](https://linkedin.com/company/design-intelligence-llp)  
 
 👥 **Collaborate with us to revolutionize civil engineering through AI & 3D tech!**  
 
