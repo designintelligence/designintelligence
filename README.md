@@ -2,7 +2,7 @@
 ### 🚀 _Transforming Civil Engineering with AI & 3D Design Solutions_  
 
 ![GitHub Org](https://img.shields.io/badge/GitHub-designintelligence-blue?style=flat-square&logo=github)  
-![Website](https://img.shields.io/badge/Website-www.designintelligence.in-brightgreen?style=flat-square)  
+![Website](https://img.shields.io/badge/Website-www.designintelligence.tech-brightgreen?style=flat-square)  
 ![Email](https://img.shields.io/badge/Email-designintelligence.in@gmail.com-orange?style=flat-square)  
 
 ---
@@ -70,9 +70,9 @@ Welcome to **Design Intelligence**, where **Python, AI, and 3D visualization** m
 
 ## 📞 Contact Us  
 📧 **Email**: [designintelligence.in@gmail.com](mailto:designintelligence.in@gmail.com)  
-🌍 **Website**: [www.designintelligence.in](https://www.designintelligence.in)  
+🌍 **Website**: [www.designintelligence.in](https://www.designintelligence.tech)  
 📌 **GitHub**: [@designintelligence](https://github.com/designintelligence)  
-📱 **LinkedIn**: [linkedin.com/company/designintelligence](https://linkedin.com/company/designintelligence)  
+📱 **LinkedIn**: [linkedin.com/company/designintelligence](https://linkedin.com/company/design-intelligence-llp)  
 
 👥 **Collaborate with us to revolutionize civil engineering through AI & 3D tech!**  
 
